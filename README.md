@@ -1,7 +1,7 @@
 # 241206_ariz_border_deaths
 # **Description**
 
-This repository contains a dataset, code, and findings that support the preliminary analysis found in the draft "Female Deaths Decreasing in Arizona Borderlands, but Increasing in El Paso, Texas sector” for the Advanced Data Journalism course at CUNY Grad School of Journalism.
+This repository contains a dataset, code, and findings that support the preliminary analysis found in the draft "Female Deaths Decreasing in Arizona Borderlands” for the Advanced Data Journalism course at CUNY Grad School of Journalism.
 
 The raw dataset for Arizona is the "Arizona OpenGIS Initiative for Deceased Migrants" and can be obtained from https://www.humaneborders.org/migrant-death-mapping. It is the result of data compiled by the nonprofit Humane Borders and the Pima County Office of the Medical Examiner from 1981 to October 2024.
 
