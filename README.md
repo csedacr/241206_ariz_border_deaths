@@ -12,7 +12,7 @@ The analysis uses the spreadsheet:
 
 - az_deaths.csv: Raw data from "Arizona OpenGIS Initiative for Deceased Migrants" compiled by Humane Borders and - Pima County Office of the Medical Examiner. Data ranges from 1981 to October 2024.
 
-  ##Steps
+Steos
 - The notebook arizona_border_deaths.ipynb contains a filtered version of the "Arizona OpenGIS Initiative for Deceased Migrants" to only show the "ML Number" , "Reporting Date" and "Sex”.
 - Notebook also contains “az_female_deaths.jpg" in the output with the number of female remains found by year by sector 
 - To do this you first have to upload the dataset, filter it and create columns for "ML Number" , "Reporting Date" and "Sex"
